@@ -7,3 +7,8 @@
     color: red;
     font-size: xx-large;
 }
+
+.error{
+    border: 2px dashed red;
+    background-color: chartreuse;
+}
